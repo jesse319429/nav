@@ -30,7 +30,7 @@ email: hanxi.info@gmail.com
 faviconserver: "https://home.hanxi.info:2007"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
